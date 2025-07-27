@@ -1,4 +1,4 @@
-### Hola a todos mi nombre es Mario ✋🙋 👍
+### Hola a todos mi nombre es Mario ✋🙏👍
 
 ## Mis estadisticas son:
 
