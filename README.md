@@ -1,6 +1,6 @@
-### Hola a todos mi nombre es Mario ✋🙏👍
+## Hola a todos mi nombre es Mario ✋🙏👍
 
-## Mis estadisticas son:
+### Mis estadisticas son:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomunoz82&show_icons=true&theme=tokyonight)
 
