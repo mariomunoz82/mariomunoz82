@@ -2,6 +2,8 @@
 
 ## Mis estadisticas son:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomunoz82)]
+
 <!--
 **mariomunoz82/mariomunoz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
