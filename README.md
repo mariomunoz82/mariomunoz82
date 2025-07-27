@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomunoz82&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomunoz82)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariomunoz82&show_icons=true&theme=radical)]
 <!--
 **mariomunoz82/mariomunoz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
