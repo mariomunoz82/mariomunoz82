@@ -8,7 +8,7 @@
 
 ## Analista de Datos | Ingeniero de pruebas | estudiante de:
 
-[https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]
 <!--
 **mariomunoz82/mariomunoz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
