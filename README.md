@@ -1,9 +1,9 @@
-## Hola a todos mi nombre es Mario ✋🙏👍
-## Analista de Datos | Ingeniero de pruebas | estudiante de:
+## Mario Alexis Muñoz ✋🙏👍
+## Analista de Datos | Ingeniero de pruebas 
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />] [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]
+-⚡estudiante de: [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />] [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]
 
-### Mis estadisticas son:
+### Estadisticas publicas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomunoz82&show_icons=true&theme=tokyonight)
 
