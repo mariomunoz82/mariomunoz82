@@ -3,7 +3,7 @@
 
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
   
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />] [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />] [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />] [<img align="left" width="22px" src="[https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg)" />]
 
 ### Estadisticas publicas:
 
