@@ -1,7 +1,7 @@
 ## Mario Alexis Muñoz ✋🙏👍
 ## Analista de Datos | Ingeniero de pruebas 
 
--⚡estudiante de:
+
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />] [<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />]
 
 ### Estadisticas publicas:
